@@ -5,7 +5,7 @@
 Este é o meu repositório do meu projeto no GitHub. Aqui, você encontrará informações sobre o projeto, como executá-lo em sua máquina local, as tecnologias utilizadas e como contribuir com o projeto.
 
 ## 📝 Descrição do Projeto
-
+olá devs como voce esta? hoje vim compartilhar mais um projeto que consiste em desenvolver uma API financeira utilizando javascript no backend
 
 ## 🚀 Como executar o projeto em sua máquina local
 Para executar o projeto em sua máquina local, siga os passos abaixo:
